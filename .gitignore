@@ -23,7 +23,6 @@ env/
 Thumbs.db
 
 # Project data/artifacts
-data/enriched/
 data/temp/
 *.log
 
